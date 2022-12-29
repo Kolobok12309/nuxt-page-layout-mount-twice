@@ -11,6 +11,7 @@
 <script>
 import LinkList from "~/components/link-list";
 
+
 export default {
   components: {
     LinkList,
